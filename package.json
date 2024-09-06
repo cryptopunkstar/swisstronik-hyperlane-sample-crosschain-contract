@@ -13,9 +13,9 @@
   "scripts": {
     "compile": "hardhat compile",
     "deploy": "hardhat run scripts/deploy.ts",
-    "increment:mumbai": "hardhat run scripts/mumbaiIncrement.ts",
+    "increment:amoy": "hardhat run scripts/amoyIncrement.ts",
     "increment:swisstronik": "hardhat run scripts/increment.ts",
-    "counter:mumbai": "hardhat run scripts/counter.ts",
+    "counter:amoy": "hardhat run scripts/counter.ts",
     "counter:swisstronik": "hardhat run scripts/counterSwisstronik.ts",
     "hardhat": "hardhat"
   }
